@@ -5,9 +5,10 @@
 <title>HTML Tutorial</title>
 </head>
 <body>
-<<<<<<< HEAD
-<:)>
-=======
+
+<p>I will avoid conflict</p>
+
+
 <:)>
 <:)>
 <git stash change>
